@@ -1,0 +1,12 @@
+#Tipos de bool (boolean)
+miVariable = False
+print(miVariable)
+
+miVariable = 3 > 2
+print(miVariable)
+
+#los boolean nos ayudan a decidir el camino que tomar
+if miVariable:
+    print("El resultado fue verdadero")
+else:
+    print("El resultado es falso")
